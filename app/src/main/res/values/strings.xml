@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Revision_P10</string>
+    <string name="name">Name</string>
+    <string name="code">Code</string>
+    <string name="num">Number</string>
+
+</resources>
